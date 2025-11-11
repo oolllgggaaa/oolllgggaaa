@@ -26,6 +26,6 @@ Git Jupyter Notebook Google Colab
 
 Статус: Открыт(а) для интересных предложений
 
-Telegram: @ivanovapilipenko
+Telegram: https://t.me/ivanovapilipenko
 
 Почта: ivanova.pilipenko@mail.ru
